@@ -13,7 +13,7 @@
 ## ⚫ About
 **human_activity_recognition** is a *machine learning model* that predicts human activity through analyzing smartphone sensor data.
 
-<!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
+<!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.--->
 
 ## ✨ Prerequisites
 
