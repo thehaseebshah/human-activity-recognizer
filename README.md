@@ -10,12 +10,12 @@
 
 ![Logo](https://github.com/zenyc/zenyc/blob/master/logo-black.png)
 
-
+## ⚫ About
 **human_activity_recognition** is a *machine learning model* that predicts human activity through analyzing smartphone sensor data.
 
 <!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.
 
-## ✨Prerequisites
+## ✨ Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
@@ -52,7 +52,7 @@ Follow these steps to view the demos:
 
 <!--- Add run commands and examples you think users will find useful. Provide an options reference for bonus points! -->
 
-##🙌 Contributing to the project
+## 🙌 Contributing to the project
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
 To contribute, follow these steps:
 
@@ -75,7 +75,7 @@ git push origin <project_name>/<location>
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-##💖 Contributors
+## 💖 Contributors
 
 Thanks to the following people who have contributed to this project:
 
@@ -83,7 +83,7 @@ Thanks to the following people who have contributed to this project:
 
 <!--- You might want to consider using something like the [All Contributors](https://github.com/all-contributors/all-contributors) specification and its [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
-##👀 Contact
+## 👀 Contact
 
 If you want to contact me you can reach me at <zenyc@live.com>.
 
