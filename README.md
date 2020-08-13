@@ -8,7 +8,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/zenyc/human_activity_recognition?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/zenyc?style=social)
 
-![Logo](https://github.com/zenyc/zenyc/blob/master/Logo.png)
+![Logo](https://github.com/zenyc/zenyc/blob/master/logo-black.png)
 
 
 **human_activity_recognition** is a `machine learning model` that predicts `human activity` through analyzing smartphone sensor data.
