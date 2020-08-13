@@ -19,7 +19,7 @@
 
 Before you begin, ensure you have met the following requirements:
 <!--- These are just example requirements. Add, duplicate or remove as required --->
-* You have installed the latest version of `Python`, `Tensorflow`, `Jupyter`nd have access to data science libraries through latest 'Anaconda Distribution`
+* You have installed the latest version of `Python`, `Tensorflow`, `Jupyter`nd have access to data science libraries through latest `Anaconda Distribution`
 * If not so, you can also run the notebooks and/or scripts on `Google Colaboratory`
 * You have a `<Windows/Linux/Mac>` machine. 
 
