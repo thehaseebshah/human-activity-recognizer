@@ -26,11 +26,14 @@ Before you begin, ensure you have met the following requirements:
 
 ## 💻 Running the Notebook
 
+
 To run the notebook, follow these steps:
 
-1- Run Jupyter Notebook/Lab
+1- Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 
-Linux and macOS:
+2- Run Jupyter Notebook/Lab
+
+Linux and macOS -- run the following on the terminal:
 ```
 jupyter notebook
 ```
