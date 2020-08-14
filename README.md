@@ -6,7 +6,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/human_activity_recognition)
 ![GitHub contributors](https://img.shields.io/github/contributors/zenyc/human_activity_recognition)
 ![GitHub forks](https://img.shields.io/github/forks/zenyc/human_activity_recognition?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/zenyc?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)
 
 ![Logo](https://github.com/zenyc/zenyc/blob/master/logo-small.png)
 
