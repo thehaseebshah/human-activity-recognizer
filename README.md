@@ -1,17 +1,17 @@
-# Human Activity Recognition
+# Human Activity Recognizer
 
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
-![GitHub stars](https://img.shields.io/github/stars/zenyc/human_activity_recognition?style=social)
-![Issues](https://img.shields.io/github/issues/zenyc/human_activity_recognition)
-![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/human_activity_recognition)
-![GitHub contributors](https://img.shields.io/github/contributors/zenyc/human_activity_recognition)
-![GitHub forks](https://img.shields.io/github/forks/zenyc/human_activity_recognition?style=social)
+![GitHub stars](https://img.shields.io/github/stars/zenyc/human-activity-recognizer?style=social)
+![Issues](https://img.shields.io/github/issues/zenyc/human-activity-recognizer)
+![GitHub repo size](https://img.shields.io/github/repo-size/zenyc/human-activity-recognizer)
+![GitHub contributors](https://img.shields.io/github/contributors/zenyc/human-activity-recognizer)
+![GitHub forks](https://img.shields.io/github/forks/zenyc/human-activity-recognizer?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/dialhaseeb?style=social)
 
 ![Logo](https://github.com/zenyc/zenyc/blob/master/logo-small.png)
 
 ## 🕯 About
-**human_activity_recognition** is a *machine learning model* that predicts human activity through analyzing smartphone sensor data.
+**human-activity-recognizer** is a *machine learning model* that predicts human activity through analyzing smartphone sensor data.
 
 <!--- Additional line of information text about what the project does. Your introduction should be around 2 or 3 sentences. Don't go overboard, people won't read it.--->
 
